@@ -1,0 +1,42 @@
+.locationContainer {
+    min-height: 200px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.location-map {
+    /* float: left; */
+    /* width: 100%; */
+    /* background: rgba(0, 0, 0, 0) url(../../public/map-image.png) no-repeat scroll center top !important; */
+    height: auto;
+    border: 4px #fff solid;
+    margin: 0 18px 0 18px;
+    border-radius: 24px;
+}
+
+.addressParagraph {
+    color: #fff;
+    /* font-family: Montserrat, sans-serif; */
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+}
+
+.direction {
+    color: #8b54f9;
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.directionButton {
+    color: #fff;
+    background: rgb(34,193,195);
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}

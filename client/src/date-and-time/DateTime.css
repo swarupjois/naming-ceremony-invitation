@@ -1,0 +1,19 @@
+.dateTime {
+    /* float: left; */
+    /* width: 100%; */
+    /* background: rgba(0, 0, 0, 0) url(../../public/map-image.png) no-repeat scroll center top !important; */
+    height: auto;
+    border: 4px #fff solid;
+    margin: 0 54px 0 54px;
+    border-radius: 24px;
+}
+
+.addressParagraph {
+    color: #fff;
+    /* font-family: Montserrat, sans-serif; */
+    font-family: cursive;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+}

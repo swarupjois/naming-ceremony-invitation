@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/naming-ceremony-invitation/static/css/main.11850f20.css",
+    "main.css": "/naming-ceremony-invitation/static/css/main.6e4ada2b.css",
     "main.js": "/naming-ceremony-invitation/static/js/main.01b4ebcb.js",
     "static/js/787.d5fa4d18.chunk.js": "/naming-ceremony-invitation/static/js/787.d5fa4d18.chunk.js",
     "static/media/design.png": "/naming-ceremony-invitation/static/media/design.ce7226a35cdebc959cd9.png",
     "static/media/myLogo.jpeg": "/naming-ceremony-invitation/static/media/myLogo.57a3e4dfd8a9356d958c.jpeg",
     "index.html": "/naming-ceremony-invitation/index.html",
-    "main.11850f20.css.map": "/naming-ceremony-invitation/static/css/main.11850f20.css.map",
+    "main.6e4ada2b.css.map": "/naming-ceremony-invitation/static/css/main.6e4ada2b.css.map",
     "main.01b4ebcb.js.map": "/naming-ceremony-invitation/static/js/main.01b4ebcb.js.map",
     "787.d5fa4d18.chunk.js.map": "/naming-ceremony-invitation/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11850f20.css",
+    "static/css/main.6e4ada2b.css",
     "static/js/main.01b4ebcb.js"
   ]
 }

@@ -1,0 +1,133 @@
+.app_root {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 100vw;
+    height: 142vh;
+    /* background: #d5961f; */
+    background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(71,61,106,1) 100%);
+  /* background: rgba(0, 0, 0, 0) url(../public/bg-image.png) no-repeat scroll center top !important; */
+  }
+  
+  .margin {
+    margin: 5px;
+  }
+  
+  .level1 {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .level2 {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  /* .nameHeader {
+    background: rgba(0, 0, 0, 0) url(../public/design-border.png) no-repeat scroll center top !important;
+  } */
+  
+  .level3 {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .level4 {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .level5 {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .level6 {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .level7 {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  .level8 {
+    padding-top: 10px;
+  }
+  
+  .signTitle {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .signContent {
+    color: #fff;
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .curved-line {
+    width: 2px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    background-color: #333; /* Adjust the color as needed */
+    border-radius: 50%;
+    margin: auto;
+  }
+
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+  
+    50% {
+      opacity: 0;
+    }
+  
+    100% {
+      opacity: 1;
+    }
+  }
